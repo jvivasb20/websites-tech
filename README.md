@@ -5,3 +5,4 @@
 3. [Icons | Flaticon](https://www.flaticon.com)
 4. [Mockups | Shots](https://shots.so)
 5. [Code challenges | Code wars](https://www.codewars.com/)
+6. [Balsamiq: Fast, focused wireframing for teams and individuals | Balsamiq](https://balsamiq.com/)
